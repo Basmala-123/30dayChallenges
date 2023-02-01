@@ -1,4 +1,4 @@
-# 30dayChallenges
+# 30 day Challenges
 
 ## Day1 
 An easy Music play called drums
